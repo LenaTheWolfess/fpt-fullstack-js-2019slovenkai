@@ -1,14 +1,14 @@
 # fpt-fullstack-js-2019slovenkai
 
-## aaaaaaaa
-bbbbbbbbb
+## Podnadpis
+text
 
-ccccccccccff
+odsek
 
-* dasda
-* dasda
+* bod
+* bod
 
-1. dfsdf
-2. asdasd
+1. bod
+2. bod
 
-**dasdasd**
+**tucne**
