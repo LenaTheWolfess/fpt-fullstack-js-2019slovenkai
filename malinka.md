@@ -8,3 +8,15 @@ In her book The First Fossil  Hunters: Dinosaurs, Mammoths, and Myth in Greek an
 function(){
     Kidding, no function.. it's just readme file!
 }
+
+<main>
+    <form>
+        <label>New task:
+            <input type="text" id="inNewTask" placeholder="Do something"/>
+        </label>
+        <button type="button" id="btAddTask" onclick="addTask()">Add task</button>
+
+        <br /> <br />
+
+        <label>task id:
+            <input type="text" id="inTaskI
