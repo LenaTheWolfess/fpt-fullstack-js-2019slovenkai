@@ -1,5 +1,7 @@
 # fpt-fullstack-js-2019slovenkai
 
+(actually do not read me)
+
 ## Podnadpis
 text
 
