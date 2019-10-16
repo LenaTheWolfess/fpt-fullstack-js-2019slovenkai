@@ -3,7 +3,6 @@
 (actually do not read me)
 
 ## Podnadpis
-text
 
 odsek
 
