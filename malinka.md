@@ -4,19 +4,3 @@ Dragon-like creatures appear in virtually all cultures around the globe.[7] None
 
 
 In her book The First Fossil  Hunters: Dinosaurs, Mammoths, and Myth in Greek and Roman Times (2000), Adrienne Mayor argues that some stories of dragons may have been inspired by ancient discoveries of fossils belonging to dinosaurs and other prehistoric animals.[14] She argues that the dragon lore of northern India may have been inspired by "observations of oversized, extraordinary bones in the fossilbeds of the Siwalik Hills below the Himalayas"[15] and that ancient Greek artistic depictions of the Monster of Troy may have been influenced by fossils of Samotherium, an extinct species of giraffe whose fossils are common in the Mediterranean region.[15] In China, a region where fossils of large prehistoric animals are common, these remains are frequently identified as "dragon bones"[16] and are commonly used in Chinese traditional medicine.[16] Mayor, however, is careful to point out that not all stories of dragons and giants are inspired by fossils[16] and notes that Scandinavia has many stories of dragons and sea monsters, but has long "been considered barren of large fossils."[16] In one of her later books, she states that "Many dragon images around the world were based on folk knowledge or exaggerations of living reptiles, such as Komodo dragons, Gila monsters, iguanas, alligators, or, in California, alligator lizards."[17]
-
-function(){
-    Kidding, no function.. it's just readme file!
-}
-
-<main>
-    <form>
-        <label>New task:
-            <input type="text" id="inNewTask" placeholder="Do something"/>
-        </label>
-        <button type="button" id="btAddTask" onclick="addTask()">Add task</button>
-
-        <br /> <br />
-
-        <label>task id:
-            <input type="text" id="inTaskI
